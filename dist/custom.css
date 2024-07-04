@@ -1,0 +1,59 @@
+
+.clg-name {
+  font-size: 50px;
+  padding: 5px 0px;
+}
+
+@media (max-width: 768px) {
+  .clg-name {
+      font-size: 30px; /* Adjust the font size for mobile devices */
+      padding: 3px 0px; /* Adjust padding for mobile devices */
+  }
+}
+
+.clg-name-hindi{
+    font-size: 30px;
+}
+
+
+.lugrasimo-regular {
+  font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+  
+
+  
+  /* google font */
+
+  .nabla {
+    font-family: "Nabla", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "EDPT" 100,
+      "EHLT" 12;
+  }
+  .bungee-spice-regular {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+#original-image{
+  height: 300px ;
+  width: 330px;
+  object-fit: cover;
+  
+}
+
+.purple_border {
+  box-shadow: 4px 4px 1px rgb(126, 34, 206);
+}
+
+.black_border {
+  box-shadow: 4px 4px 1px rgb(0, 0, 0);
+}
